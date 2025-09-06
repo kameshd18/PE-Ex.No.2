@@ -1,36 +1,84 @@
+# Ex.No: 2 – Evaluation of 2024 Prompting Tools Across Diverse AI Platforms
 
-# Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta 
-### DATE:                                                                            
-### REGISTER NUMBER : 
- 
-### Aim:
-To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
-### AI Tools required:
+**Date:** 
+**Register Number:** 212222240043  
 
-### Explanation:
-Define the Use Case:
-Select a specific task for evaluation across platforms (e.g., summarizing a document, answering a technical question, or generating a creative story / Code).
-Ensure the use case is applicable to all platforms and will allow for comparison across response quality, accuracy, and depth.
-Create a Set of Prompts:
-Prepare a uniform set of prompts that align with the chosen use case.
-Each prompt should be clear and precise, ensuring that all platforms are evaluated using the same input.
-Consider multiple prompts to capture the versatility of each platform in handling different aspects of the use case.
-Run the Experiment on Each AI Platform:
-Input the prompts into each AI tool (ChatGPT, Claude, Bard, Cohere Command, and Meta) and gather the responses.
-Ensure the same conditions are applied for each platform, such as input format, time to respond, and prompt delivery.
-Record response times, ease of interaction with the platform, and any technical issues encountered.
-Evaluate Response Quality:
-Assess each platform’s responses using the following criteria: Accuracy,Clarity,Depth,Relevance 
-Compare Performance:
-Compare the collected data to identify differences in performance across platforms.
-Identify any platform-specific advantages, such as faster response times, more accurate answers, or more intuitive interfaces.
-Deliverables:
-A comparison table outlining the performance of each platform (ChatGPT, Claude, Bard, Cohere Command, and Meta) based on accuracy, clarity, depth, and relevance of responses.
-A final report summarizing the findings of the experiment, including recommendations on the most suitable AI platform for different use cases based on performance and user 
+---
 
-### Output:
+## Aim
+To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) for a specific use case, such as summarizing text or answering technical questions, by generating prompt-based outputs and analyzing them.
 
-### Conclusion: 
+---
 
+## AI Tools Required
+- ChatGPT  
+- Claude  
+- Bard  
+- Cohere Command  
+- Meta AI Platform  
 
-# Result : The Prompt for the above problem statement executed successfully.
+---
+
+## Explanation / Methodology
+
+### 1. Define the Use Case
+- **Task Selected:** Summarizing a technical document into concise, accurate, and clear points.  
+- **Reason:** Summarization is applicable across all AI platforms and allows evaluation of accuracy, clarity, depth, and relevance.
+
+### 2. Create a Set of Prompts
+- **Prompt 1:** “Summarize the following technical document into 5 key points with clear explanations.”  
+- **Prompt 2:** “Provide a brief summary highlighting the most important technical concepts in the text.”  
+- **Prompt 3:** “Generate a detailed explanation of the document suitable for a beginner in the field.”  
+
+> All platforms received identical prompts for consistency.
+
+### 3. Run the Experiment on Each AI Platform
+- Input the prompts into ChatGPT, Claude, Bard, Cohere Command, and Meta.  
+- Record the following:  
+  - Response time  
+  - Ease of interaction / user interface  
+  - Any technical issues  
+  - Response content  
+
+### 4. Evaluate Response Quality
+Responses were assessed based on:  
+- **Accuracy:** Correctness of information  
+- **Clarity:** Ease of understanding  
+- **Depth:** Level of detail and insight  
+- **Relevance:** How closely the response matches the prompt’s intent  
+
+### 5. Compare Performance
+- Observed differences across platforms.  
+- Identified platform-specific advantages (e.g., speed, clarity, depth).
+
+---
+
+## Comparison Table of AI Platforms
+
+| AI Platform        | Accuracy | Clarity | Depth | Relevance | Notes / Observations |
+|------------------|----------|--------|-------|----------|---------------------|
+| ChatGPT           | High     | High   | Medium| High     | Clear, accurate, fast response |
+| Claude            | High     | Medium | High  | High     | Detailed, slightly slower |
+| Bard              | Medium   | High   | Medium| Medium   | Clear but less depth in technical content |
+| Cohere Command    | Medium   | Medium | Medium| High     | Good relevance, moderate clarity |
+| Meta              | Medium   | Medium | Medium| Medium   | Fast response, lacks depth in complex topics |
+
+---
+
+## Output
+The prompts were executed successfully across all AI platforms, and responses were recorded and evaluated.
+
+---
+
+## Conclusion
+- ChatGPT and Claude showed the best overall performance for summarization tasks, with ChatGPT providing faster and clearer responses, while Claude offered more detailed explanations.  
+- Bard, Cohere Command, and Meta performed adequately but lacked either depth or clarity in complex technical tasks.  
+- **Recommendation by use case:**  
+  - Quick and clear summaries: **ChatGPT**  
+  - In-depth explanations: **Claude**  
+  - Speed-focused applications: **Meta**
+
+---
+
+## Result
+The prompt for the evaluation of AI platforms executed successfully, and comparative analysis was performed based on accuracy, clarity, depth, and relevance.
